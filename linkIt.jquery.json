@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "linkIt jQuery Plugin",
+    "description": "Simple jQuery plugin that allows you to attach a link to any element.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Katrina Guyduy",
+        "url": "https://github.com/katrinagd/jquery.linkIt"
+    },
+    "maintainers": [
+        {
+            "name": "Katrina Guyduy",
+            "email": "katrinaguyduy@gmail.com",
+            "url": "https://github.com/katrinagd/jquery.linkIt"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/katrinagd/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/katrinagd/jquery.linkIt",
+    "docs": "https://github.com/katrinagd/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
